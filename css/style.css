@@ -15,6 +15,9 @@
   background: linear-gradient(gray, lightgray);
   text-align: center;
 }
+.center-h2 {
+  text-align: center;
+}
 .color-background-footer {
   background: linear-gradient(black, gray, lightgray);
 }
