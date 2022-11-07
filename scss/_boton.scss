@@ -8,8 +8,9 @@
   text-transform: uppercase;
   font-weight: bold;
   transition: all 1s ease;
-}
-.boton:hover {
-  background-color: rgb(35, 245, 35);
-  color: black;
+
+  .&:hover {
+    background-color: rgb(35, 245, 35);
+    color: black;
+  }
 }
