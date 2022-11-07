@@ -11,16 +11,13 @@
   display: inline-block;
   animation: loading 2s linear infinite;
 }
-
 .color-background-h1 {
   background: linear-gradient(gray, lightgray);
   text-align: center;
 }
-
 .center-h2 {
   text-align: center;
 }
-
 .color-background-footer {
   background: linear-gradient(black, gray, lightgray);
 }
@@ -36,7 +33,6 @@
   font-weight: bold;
   transition: all 1s ease;
 }
-
 .boton:hover {
   background-color: rgb(35, 245, 35);
   color: black;
@@ -50,5 +46,3 @@
     transform: rotateX(0deg) rotateY(180deg);
   }
 }
-
-/*# sourceMappingURL=style.css.map */
