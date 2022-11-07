@@ -1,0 +1,15 @@
+.boton {
+  text-align: center;
+  text-decoration: none;
+  margin-top: 20px;
+  background-color: rgb(20, 216, 20);
+  color: white;
+  padding: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+  transition: all 1s ease;
+}
+.boton:hover {
+  background-color: rgb(35, 245, 35);
+  color: black;
+}

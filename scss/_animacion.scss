@@ -1,0 +1,13 @@
+.loading:hover {
+  display: inline-block;
+  animation: loading 2s linear infinite;
+}
+
+@keyframes loading {
+  0% {
+    transform: rotateX(0deg) rotateY(0deg);
+  }
+  50% {
+    transform: rotateX(0deg) rotateY(180deg);
+  }
+}
