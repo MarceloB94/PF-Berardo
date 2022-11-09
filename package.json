@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MarceloB94/PreEntrega2-Berardo/issues"
   },
-  "homepage": "https://github.com/MarceloB94/PreEntrega2-Berardo#readme"
+  "homepage": "https://github.com/MarceloB94/PreEntrega2-Berardo#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
 }
