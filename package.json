@@ -1,7 +1,7 @@
 {
-  "name": "proyecto-con-boostrap",
+  "name": "Caseritas del norte",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pagina de Empanadas Salteñas y sus variedades",
   "main": "index.js",
   "scripts": {
     "compile:sass": "sass --watch scss/style.scss css/style.css"
