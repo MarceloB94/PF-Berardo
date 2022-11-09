@@ -1,3 +1,9 @@
+@import "boton";
+
+@import "animacion";
+
+@import "color";
+
 .style-text-nav-bar {
   text-decoration: none;
   font-family: "Oswald", sans-serif;
@@ -7,8 +13,6 @@
   text-align: center;
 }
 
-@import "boton";
-
-@import "animacion";
-
-@import "color";
+.color-header {
+  background-image: $primary;
+}
